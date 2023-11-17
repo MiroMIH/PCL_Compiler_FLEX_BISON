@@ -38,14 +38,6 @@ Symbol table management, crucial for tracking variables and constants throughout
 
 The PCL language follows a specific syntax and semantics outlined in the project's documentation. The language supports variable declarations, arrays, data structures, constants, arithmetic, logical and comparison operators, conditions, loops, and more.
 
-## How to Use
 
-To use the PCL compiler, follow these steps:
-
-1. Clone the repository.
-2. Navigate to the specific directory for the compilation phase you're interested in (e.g., `lexical_analysis`, `syntax_semantic_analysis`).
-3. Follow the instructions provided in the respective README files for building and running the compiler.
-
-Feel free to explore and contribute to the development of the compiler. Issues, enhancements, and bug reports are welcome.
 
 Happy coding!
