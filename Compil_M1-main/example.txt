@@ -1,0 +1,14 @@
+prog
+    {
+    VAR 
+        {
+            INTEGER A,B,C;
+        }
+    CODE
+        {
+		A=B + 1;
+		B=B + 1;
+		D=B + 1;
+           
+        }
+    }
