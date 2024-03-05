@@ -39,5 +39,3 @@ Symbol table management, crucial for tracking variables and constants throughout
 The PCL language follows a specific syntax and semantics outlined in the project's documentation. The language supports variable declarations, arrays, data structures, constants, arithmetic, logical and comparison operators, conditions, loops, and more.
 
 
-
-Happy coding!
